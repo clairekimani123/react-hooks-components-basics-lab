@@ -23,6 +23,7 @@ function App() {
   return (
     <div>
       <NavBar />
+      <Home /> 
       {/* add the <Home> component here */}
       {/* add your <About> component here */}
     </div>
